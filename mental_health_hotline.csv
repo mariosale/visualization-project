@@ -1,0 +1,501 @@
+call_id,timestamp,issue_type,call_duration,resolution
+1,2024-08-12 14:21:32.452502,Other,18,Successful
+2,2024-01-23 03:12:50.308957,Suicidal Thoughts,13,Unsuccessful
+3,2024-03-16 20:34:27.376308,Depression,22,Unsuccessful
+4,2024-01-16 05:44:56.292718,Other,42,Unsuccessful
+5,2024-01-11 22:07:23.480203,Depression,39,Successful
+6,2024-09-07 18:57:42.500511,Depression,43,Successful
+7,2024-02-08 10:23:26.747913,Anxiety,22,Successful
+8,2024-06-22 11:50:32.031662,Other,48,Successful
+9,2024-07-19 08:53:46.284210,Depression,18,Successful
+10,2024-12-09 07:07:20.315675,Anxiety,13,Unsuccessful
+11,2024-05-21 07:18:27.426250,Depression,45,Successful
+12,2024-07-04 02:51:20.280608,Suicidal Thoughts,39,Successful
+13,2024-08-18 12:09:06.723862,Suicidal Thoughts,37,Successful
+14,2024-05-02 05:57:31.382225,Anxiety,21,Successful
+15,2024-09-28 09:29:47.649138,Anxiety,50,Successful
+16,2024-07-15 02:15:14.540317,Suicidal Thoughts,46,Unsuccessful
+17,2024-08-04 19:05:32.456498,Suicidal Thoughts,6,Unsuccessful
+18,2024-09-02 14:19:40.798605,Suicidal Thoughts,41,Successful
+19,2024-09-05 11:17:21.722080,Depression,56,Unsuccessful
+20,2024-03-06 10:15:28.940758,Suicidal Thoughts,33,Successful
+21,2024-01-18 19:59:38.249400,Anxiety,36,Unsuccessful
+22,2024-07-04 16:42:18.239257,Other,53,Successful
+23,2024-03-24 20:11:02.433422,Depression,30,Successful
+24,2024-09-11 10:02:22.888299,Other,1,Unsuccessful
+25,2024-03-11 07:04:42.364361,Other,38,Successful
+26,2024-03-29 06:57:51.058185,Depression,57,Successful
+27,2024-08-12 10:04:03.733327,Other,22,Unsuccessful
+28,2024-03-27 07:15:19.693105,Depression,15,Unsuccessful
+29,2024-11-27 08:52:12.359333,Suicidal Thoughts,56,Unsuccessful
+30,2024-09-27 10:17:47.092415,Suicidal Thoughts,53,Successful
+31,2024-09-30 16:11:33.588877,Anxiety,3,Successful
+32,2024-01-05 19:45:54.882617,Other,34,Successful
+33,2024-10-31 09:24:27.358056,Depression,35,Successful
+34,2024-04-11 00:17:33.506572,Depression,17,Successful
+35,2024-03-31 12:59:37.167541,Depression,51,Successful
+36,2024-12-30 14:21:27.699303,Depression,11,Unsuccessful
+37,2024-02-09 00:59:53.559684,Depression,56,Unsuccessful
+38,2024-08-30 08:13:07.670756,Other,47,Unsuccessful
+39,2024-03-10 21:15:52.137397,Anxiety,51,Successful
+40,2024-04-30 12:41:44.010273,Anxiety,43,Unsuccessful
+41,2024-06-16 01:28:25.425771,Anxiety,33,Successful
+42,2024-03-02 19:48:10.605886,Depression,40,Successful
+43,2024-08-18 03:41:35.903634,Anxiety,38,Unsuccessful
+44,2024-08-10 20:25:51.402759,Anxiety,35,Successful
+45,2024-01-12 03:56:33.479986,Anxiety,28,Unsuccessful
+46,2024-01-12 04:54:52.381560,Anxiety,37,Successful
+47,2024-04-28 14:54:37.745162,Anxiety,57,Unsuccessful
+48,2024-01-07 01:44:29.588303,Other,1,Successful
+49,2024-12-22 14:18:53.705141,Suicidal Thoughts,52,Unsuccessful
+50,2024-03-30 22:20:21.317440,Other,21,Unsuccessful
+51,2024-01-07 13:18:04.528439,Anxiety,1,Unsuccessful
+52,2024-04-19 06:37:16.691985,Other,10,Successful
+53,2024-12-04 05:58:51.755038,Suicidal Thoughts,12,Unsuccessful
+54,2024-09-17 23:33:12.766304,Suicidal Thoughts,18,Unsuccessful
+55,2024-08-09 03:55:20.018975,Other,39,Successful
+56,2024-01-07 16:31:34.395593,Other,36,Unsuccessful
+57,2024-08-17 23:54:02.544426,Other,58,Successful
+58,2024-02-20 21:55:11.102612,Other,29,Successful
+59,2024-01-08 05:58:09.555120,Other,46,Unsuccessful
+60,2024-11-20 07:20:10.350545,Depression,54,Unsuccessful
+61,2024-10-18 21:32:56.396722,Depression,10,Successful
+62,2024-06-20 10:04:49.076425,Anxiety,31,Unsuccessful
+63,2024-11-24 11:34:11.760206,Suicidal Thoughts,27,Successful
+64,2024-10-20 04:49:32.297719,Suicidal Thoughts,46,Unsuccessful
+65,2024-04-08 02:10:17.623308,Other,45,Successful
+66,2024-05-13 06:17:52.528274,Suicidal Thoughts,2,Successful
+67,2024-02-17 20:32:50.461462,Depression,56,Successful
+68,2024-06-21 02:04:43.514143,Anxiety,51,Successful
+69,2024-12-12 03:49:57.520270,Depression,20,Unsuccessful
+70,2024-04-21 07:13:15.326018,Depression,41,Unsuccessful
+71,2024-08-10 08:32:34.979490,Suicidal Thoughts,57,Successful
+72,2024-11-15 12:40:38.035742,Suicidal Thoughts,17,Successful
+73,2024-06-28 09:53:42.388093,Suicidal Thoughts,15,Unsuccessful
+74,2024-12-08 17:25:56.535392,Anxiety,49,Successful
+75,2024-06-08 00:34:28.307531,Depression,45,Unsuccessful
+76,2024-09-30 12:45:29.950929,Other,28,Unsuccessful
+77,2024-03-04 03:00:46.530485,Depression,35,Unsuccessful
+78,2024-05-18 18:51:38.049104,Anxiety,4,Successful
+79,2024-11-15 01:07:23.268343,Anxiety,14,Successful
+80,2024-09-03 07:00:39.689671,Suicidal Thoughts,42,Unsuccessful
+81,2024-06-23 07:01:57.455014,Anxiety,55,Successful
+82,2024-08-29 12:43:39.273960,Other,5,Unsuccessful
+83,2024-11-05 16:18:36.374390,Other,37,Successful
+84,2024-12-01 02:39:38.171950,Suicidal Thoughts,46,Successful
+85,2024-01-22 23:55:12.235280,Depression,16,Successful
+86,2024-04-09 05:17:33.521207,Depression,12,Successful
+87,2024-12-12 17:49:05.787874,Suicidal Thoughts,43,Successful
+88,2024-11-17 00:02:41.078491,Other,6,Unsuccessful
+89,2024-11-25 05:36:54.534789,Suicidal Thoughts,40,Successful
+90,2024-01-04 03:50:23.973713,Depression,19,Successful
+91,2024-10-30 05:27:21.666327,Depression,20,Successful
+92,2024-10-19 20:49:37.441991,Anxiety,30,Successful
+93,2024-04-09 04:21:31.862472,Other,19,Successful
+94,2024-02-17 10:50:23.874165,Depression,13,Successful
+95,2024-05-06 14:16:36.376779,Anxiety,23,Successful
+96,2024-04-02 01:37:59.231160,Other,51,Successful
+97,2024-07-26 10:23:56.735531,Other,19,Successful
+98,2024-04-04 18:05:35.326960,Suicidal Thoughts,49,Unsuccessful
+99,2024-08-18 23:14:38.966965,Other,47,Successful
+100,2024-10-12 22:21:15.291306,Anxiety,38,Successful
+101,2024-04-03 13:40:35.549750,Other,24,Successful
+102,2024-07-26 03:55:34.725764,Depression,3,Unsuccessful
+103,2024-09-25 13:22:48.178369,Depression,5,Successful
+104,2024-10-11 23:16:05.779446,Other,4,Successful
+105,2024-08-02 23:25:01.722442,Suicidal Thoughts,33,Successful
+106,2024-06-22 08:41:55.739716,Depression,17,Unsuccessful
+107,2024-11-17 15:31:36.009331,Suicidal Thoughts,23,Successful
+108,2024-01-21 17:09:30.030885,Depression,22,Successful
+109,2024-06-25 02:01:34.948342,Anxiety,52,Unsuccessful
+110,2024-09-10 02:42:22.105402,Other,40,Unsuccessful
+111,2024-01-30 06:59:46.001755,Anxiety,6,Successful
+112,2024-03-24 06:01:18.898655,Anxiety,58,Unsuccessful
+113,2024-11-19 00:27:22.869533,Depression,7,Successful
+114,2024-01-04 16:31:53.272225,Other,17,Successful
+115,2024-07-31 01:20:36.392732,Other,40,Unsuccessful
+116,2024-10-19 12:42:32.043413,Suicidal Thoughts,23,Successful
+117,2024-10-31 17:06:52.932459,Depression,49,Unsuccessful
+118,2024-02-14 13:24:43.246092,Suicidal Thoughts,17,Successful
+119,2024-09-30 13:38:21.105868,Suicidal Thoughts,10,Unsuccessful
+120,2024-01-23 06:07:28.265713,Suicidal Thoughts,56,Successful
+121,2024-02-21 12:35:41.734419,Suicidal Thoughts,19,Successful
+122,2024-06-13 22:31:57.723464,Suicidal Thoughts,18,Successful
+123,2024-03-12 11:22:28.696855,Suicidal Thoughts,8,Unsuccessful
+124,2024-10-09 04:37:26.923810,Anxiety,42,Successful
+125,2024-03-29 00:19:13.089284,Depression,20,Successful
+126,2024-05-24 11:10:39.269251,Anxiety,31,Unsuccessful
+127,2024-07-04 19:28:45.544808,Depression,57,Successful
+128,2024-05-25 13:09:13.488599,Other,24,Successful
+129,2024-09-19 09:42:10.884507,Depression,59,Successful
+130,2024-10-22 13:01:21.759848,Other,42,Successful
+131,2024-08-28 09:43:15.013683,Other,58,Successful
+132,2024-11-19 05:13:44.326329,Depression,13,Successful
+133,2024-05-25 07:36:49.835852,Other,54,Successful
+134,2024-02-19 11:07:07.803487,Suicidal Thoughts,29,Unsuccessful
+135,2024-12-08 14:10:00.290206,Suicidal Thoughts,3,Successful
+136,2024-07-22 07:17:13.086854,Depression,4,Successful
+137,2024-05-21 01:04:52.137244,Anxiety,31,Successful
+138,2024-06-01 21:58:04.269370,Anxiety,2,Unsuccessful
+139,2024-07-10 16:20:36.907611,Depression,47,Successful
+140,2024-09-27 04:23:41.755083,Depression,17,Successful
+141,2024-05-09 09:51:30.491462,Anxiety,51,Successful
+142,2024-05-06 02:42:19.990428,Anxiety,53,Successful
+143,2024-11-20 21:32:25.452279,Other,46,Successful
+144,2024-02-17 04:13:32.603800,Anxiety,8,Successful
+145,2024-02-27 19:55:47.027380,Other,41,Unsuccessful
+146,2024-05-17 21:41:14.436420,Other,13,Successful
+147,2024-02-15 09:36:27.993410,Anxiety,30,Successful
+148,2024-10-18 15:30:47.820687,Depression,1,Successful
+149,2024-09-18 00:59:45.095382,Suicidal Thoughts,24,Successful
+150,2024-01-29 12:48:05.758959,Other,46,Successful
+151,2024-08-23 21:41:47.821789,Anxiety,14,Unsuccessful
+152,2024-07-02 13:27:56.163496,Suicidal Thoughts,22,Successful
+153,2024-11-23 15:09:01.656442,Other,36,Successful
+154,2024-08-02 01:28:44.403296,Anxiety,54,Unsuccessful
+155,2024-03-02 08:40:23.526661,Other,11,Successful
+156,2024-09-23 00:06:52.051316,Suicidal Thoughts,42,Successful
+157,2024-08-02 02:19:59.841689,Depression,12,Unsuccessful
+158,2024-02-21 07:18:46.783249,Other,9,Unsuccessful
+159,2024-11-03 17:27:19.288396,Other,40,Unsuccessful
+160,2024-03-26 23:33:44.521880,Anxiety,50,Successful
+161,2024-02-19 12:42:34.353294,Anxiety,15,Unsuccessful
+162,2024-05-16 01:56:41.736195,Other,43,Successful
+163,2024-11-11 10:53:13.384046,Other,11,Successful
+164,2024-01-03 07:29:23.212999,Other,51,Successful
+165,2024-10-15 16:25:08.053448,Anxiety,20,Successful
+166,2024-03-08 18:45:24.334052,Suicidal Thoughts,14,Unsuccessful
+167,2024-12-13 06:42:28.431016,Other,53,Successful
+168,2024-06-18 15:11:52.090211,Anxiety,46,Successful
+169,2024-10-16 17:15:28.776715,Depression,15,Successful
+170,2024-05-08 13:52:35.090431,Suicidal Thoughts,59,Unsuccessful
+171,2024-03-11 23:42:59.955620,Other,7,Unsuccessful
+172,2024-12-03 13:49:18.498886,Suicidal Thoughts,29,Successful
+173,2024-03-03 22:11:12.429552,Anxiety,34,Successful
+174,2024-10-16 04:08:25.353230,Suicidal Thoughts,12,Successful
+175,2024-10-27 14:29:39.700691,Suicidal Thoughts,24,Successful
+176,2024-09-09 01:04:50.741910,Other,37,Successful
+177,2024-08-26 07:27:00.386390,Depression,40,Successful
+178,2024-10-26 18:03:05.322390,Other,29,Unsuccessful
+179,2024-12-29 19:18:26.994416,Suicidal Thoughts,53,Successful
+180,2024-05-10 12:34:56.150022,Other,34,Successful
+181,2024-02-12 21:22:51.920887,Anxiety,13,Successful
+182,2024-12-14 06:59:27.458426,Depression,22,Successful
+183,2024-09-22 10:36:16.678866,Suicidal Thoughts,47,Successful
+184,2024-08-02 08:11:45.038142,Depression,13,Successful
+185,2024-09-12 10:43:42.554275,Depression,6,Successful
+186,2024-05-14 03:22:41.502839,Other,19,Successful
+187,2024-10-10 12:28:05.822925,Anxiety,30,Successful
+188,2024-07-30 16:12:35.675679,Other,40,Successful
+189,2024-09-02 03:37:15.681762,Depression,57,Successful
+190,2024-10-24 07:35:13.337279,Other,37,Successful
+191,2024-03-20 10:36:38.286485,Depression,28,Successful
+192,2024-09-13 09:31:51.832829,Anxiety,2,Successful
+193,2024-02-09 16:32:08.047824,Depression,59,Successful
+194,2024-04-11 07:23:14.962970,Suicidal Thoughts,32,Unsuccessful
+195,2024-10-04 06:58:52.179474,Other,16,Successful
+196,2024-12-11 11:17:26.878363,Suicidal Thoughts,41,Successful
+197,2024-11-05 23:07:27.342828,Anxiety,3,Unsuccessful
+198,2024-06-27 22:02:36.893658,Other,13,Unsuccessful
+199,2024-05-29 20:23:31.957695,Suicidal Thoughts,58,Successful
+200,2024-11-02 14:10:07.122737,Suicidal Thoughts,25,Successful
+201,2024-03-06 15:28:32.240696,Other,22,Unsuccessful
+202,2024-10-25 13:47:23.218418,Depression,58,Unsuccessful
+203,2024-10-11 10:35:41.965836,Anxiety,24,Successful
+204,2024-07-16 00:47:55.797975,Other,48,Unsuccessful
+205,2024-08-25 11:18:49.489277,Anxiety,4,Successful
+206,2024-10-28 07:31:59.407857,Anxiety,39,Successful
+207,2024-10-20 15:59:54.030361,Suicidal Thoughts,59,Successful
+208,2024-11-26 10:38:40.769376,Suicidal Thoughts,42,Unsuccessful
+209,2024-10-03 20:27:29.593102,Suicidal Thoughts,39,Successful
+210,2024-02-19 13:02:58.833427,Suicidal Thoughts,18,Unsuccessful
+211,2024-06-20 08:16:06.281110,Anxiety,49,Unsuccessful
+212,2024-11-08 23:59:09.700929,Anxiety,14,Successful
+213,2024-07-19 08:34:43.392012,Suicidal Thoughts,58,Unsuccessful
+214,2024-12-04 22:52:54.235049,Suicidal Thoughts,5,Successful
+215,2024-12-12 10:30:37.236562,Depression,22,Successful
+216,2024-11-03 23:07:26.301578,Depression,23,Successful
+217,2024-08-07 06:29:51.848350,Anxiety,41,Successful
+218,2024-03-11 16:48:49.832335,Other,29,Successful
+219,2024-01-29 06:23:50.631244,Depression,59,Unsuccessful
+220,2024-12-22 07:09:23.607924,Other,58,Successful
+221,2024-11-21 12:18:40.960987,Anxiety,59,Successful
+222,2024-09-10 01:33:13.315625,Other,15,Successful
+223,2024-01-29 12:47:11.836401,Suicidal Thoughts,36,Successful
+224,2024-02-25 12:36:51.325292,Other,10,Unsuccessful
+225,2024-08-15 15:17:15.737276,Depression,43,Successful
+226,2024-01-21 15:46:27.316060,Anxiety,27,Successful
+227,2024-03-10 13:57:46.627474,Other,27,Successful
+228,2024-10-23 03:07:28.167488,Other,15,Unsuccessful
+229,2024-12-23 21:40:03.324290,Depression,36,Successful
+230,2024-06-05 20:27:47.061057,Depression,48,Successful
+231,2024-03-08 05:38:04.481408,Anxiety,51,Successful
+232,2024-07-12 04:30:05.407574,Anxiety,23,Successful
+233,2024-06-25 16:31:32.791937,Depression,3,Successful
+234,2024-10-13 15:15:06.326533,Other,40,Successful
+235,2024-06-05 17:55:20.032870,Depression,34,Successful
+236,2024-05-08 22:42:41.943792,Anxiety,59,Unsuccessful
+237,2024-10-31 14:23:24.765392,Suicidal Thoughts,24,Unsuccessful
+238,2024-01-01 18:53:29.401863,Anxiety,32,Successful
+239,2024-07-09 14:07:07.675264,Suicidal Thoughts,27,Successful
+240,2024-09-15 08:00:40.872983,Anxiety,57,Successful
+241,2024-08-23 15:38:51.367903,Anxiety,58,Successful
+242,2024-05-27 07:57:20.209388,Anxiety,44,Successful
+243,2024-09-13 03:53:02.065614,Depression,5,Successful
+244,2024-02-23 14:45:46.263999,Anxiety,23,Successful
+245,2024-12-14 17:01:12.012315,Other,34,Successful
+246,2024-08-05 07:46:34.983443,Other,34,Unsuccessful
+247,2024-09-15 03:12:57.809203,Depression,49,Successful
+248,2024-04-26 19:00:43.157394,Anxiety,4,Successful
+249,2024-06-23 21:57:12.211566,Other,45,Unsuccessful
+250,2024-10-12 02:11:52.105385,Depression,11,Successful
+251,2024-11-08 15:31:56.184079,Other,9,Successful
+252,2024-12-28 00:29:21.850130,Suicidal Thoughts,16,Successful
+253,2024-06-01 08:45:23.499855,Anxiety,9,Unsuccessful
+254,2024-03-23 06:54:17.866193,Anxiety,21,Successful
+255,2024-01-03 23:37:05.352231,Other,43,Successful
+256,2024-07-25 09:31:35.113091,Anxiety,44,Successful
+257,2024-03-30 05:34:53.807777,Depression,33,Unsuccessful
+258,2024-08-26 23:20:27.034783,Anxiety,25,Successful
+259,2024-08-15 23:01:56.195902,Depression,2,Unsuccessful
+260,2024-06-16 06:39:54.257035,Anxiety,20,Successful
+261,2024-06-30 16:50:16.095280,Other,22,Successful
+262,2024-12-11 16:03:01.266780,Depression,43,Successful
+263,2024-02-04 19:30:55.200785,Other,54,Unsuccessful
+264,2024-08-10 05:57:29.062813,Depression,31,Successful
+265,2024-11-09 23:07:25.336092,Depression,40,Successful
+266,2024-08-14 11:26:50.627860,Other,12,Unsuccessful
+267,2024-12-31 14:56:58.333596,Depression,50,Successful
+268,2024-03-26 14:12:23.647854,Anxiety,43,Unsuccessful
+269,2024-10-07 20:32:01.906807,Suicidal Thoughts,37,Successful
+270,2024-11-28 15:09:44.946515,Depression,11,Successful
+271,2024-07-26 02:04:26.993218,Depression,14,Successful
+272,2024-05-22 08:53:53.894911,Anxiety,48,Successful
+273,2024-02-21 06:39:34.994221,Other,52,Successful
+274,2024-08-24 05:23:39.774464,Suicidal Thoughts,16,Successful
+275,2024-05-19 01:49:25.728503,Suicidal Thoughts,20,Successful
+276,2024-02-20 17:07:33.612036,Depression,35,Unsuccessful
+277,2024-02-25 17:03:23.094646,Anxiety,57,Unsuccessful
+278,2024-07-28 13:58:49.720203,Other,26,Successful
+279,2024-07-17 12:18:19.146591,Depression,3,Successful
+280,2024-03-01 14:46:45.160082,Depression,45,Unsuccessful
+281,2024-06-02 04:47:00.569246,Other,57,Successful
+282,2024-05-22 16:48:51.557204,Suicidal Thoughts,3,Successful
+283,2024-06-17 18:20:32.300619,Suicidal Thoughts,15,Unsuccessful
+284,2024-05-18 05:04:29.704326,Depression,10,Successful
+285,2024-01-12 15:30:30.787919,Anxiety,11,Successful
+286,2024-02-13 01:25:53.785450,Other,14,Unsuccessful
+287,2024-01-28 10:43:52.746091,Depression,20,Successful
+288,2024-06-05 05:17:57.898552,Suicidal Thoughts,21,Unsuccessful
+289,2024-01-19 23:03:47.542056,Other,55,Successful
+290,2024-08-15 02:26:09.180264,Anxiety,5,Successful
+291,2024-11-25 00:49:45.359796,Other,52,Unsuccessful
+292,2024-06-21 20:32:14.615604,Depression,35,Successful
+293,2024-01-10 18:26:58.539207,Anxiety,57,Unsuccessful
+294,2024-03-10 15:07:40.793755,Suicidal Thoughts,11,Successful
+295,2024-12-25 03:52:10.933806,Depression,24,Successful
+296,2024-08-19 08:35:20.342154,Anxiety,58,Successful
+297,2024-10-31 15:16:04.252038,Suicidal Thoughts,45,Successful
+298,2024-10-13 21:54:02.579412,Suicidal Thoughts,43,Successful
+299,2024-09-09 17:33:34.906575,Depression,15,Unsuccessful
+300,2024-12-01 05:29:51.625722,Depression,43,Successful
+301,2024-07-12 02:08:11.824228,Other,8,Successful
+302,2024-01-30 15:33:08.429348,Depression,17,Unsuccessful
+303,2024-06-08 17:52:48.977406,Anxiety,34,Successful
+304,2024-02-29 23:29:57.768706,Suicidal Thoughts,53,Unsuccessful
+305,2024-08-01 14:37:58.524457,Anxiety,44,Successful
+306,2024-07-16 22:26:50.265945,Anxiety,47,Successful
+307,2024-12-29 22:12:07.920425,Depression,49,Successful
+308,2024-12-26 12:01:49.691695,Depression,15,Successful
+309,2024-02-23 03:22:53.746749,Depression,57,Successful
+310,2024-08-11 23:16:59.401200,Depression,35,Successful
+311,2024-09-21 22:14:56.648905,Other,53,Unsuccessful
+312,2024-07-03 13:15:06.079790,Anxiety,14,Successful
+313,2024-03-17 05:07:49.465582,Other,20,Successful
+314,2024-02-21 08:15:21.162884,Anxiety,3,Successful
+315,2024-10-04 06:26:14.847055,Anxiety,11,Successful
+316,2024-10-13 14:43:03.713197,Suicidal Thoughts,32,Successful
+317,2024-01-16 15:53:58.528725,Anxiety,32,Successful
+318,2024-07-29 00:00:28.232547,Other,19,Successful
+319,2024-06-21 21:34:26.968414,Suicidal Thoughts,55,Successful
+320,2024-04-06 19:38:50.208379,Depression,14,Successful
+321,2024-10-01 17:37:18.204006,Suicidal Thoughts,59,Successful
+322,2024-07-03 17:07:17.655654,Other,29,Unsuccessful
+323,2024-11-19 16:28:58.299772,Anxiety,52,Successful
+324,2024-10-07 17:27:07.559291,Anxiety,10,Successful
+325,2024-12-10 16:07:35.020113,Anxiety,5,Successful
+326,2024-01-28 05:40:40.473439,Other,27,Successful
+327,2024-07-05 21:03:57.084213,Anxiety,5,Successful
+328,2024-08-27 07:41:47.666612,Depression,32,Successful
+329,2024-04-25 20:05:26.161572,Other,21,Successful
+330,2024-08-27 07:16:00.909268,Depression,46,Unsuccessful
+331,2024-11-07 13:25:21.884874,Suicidal Thoughts,45,Unsuccessful
+332,2024-04-18 04:07:53.797176,Anxiety,54,Successful
+333,2024-04-19 13:51:48.808095,Suicidal Thoughts,23,Successful
+334,2024-06-30 08:17:56.346292,Other,40,Successful
+335,2024-07-30 22:11:56.153318,Suicidal Thoughts,56,Unsuccessful
+336,2024-01-11 09:18:51.122455,Depression,58,Unsuccessful
+337,2024-03-21 14:04:26.780224,Suicidal Thoughts,9,Successful
+338,2024-05-03 08:42:45.217748,Suicidal Thoughts,16,Successful
+339,2024-01-06 17:53:25.788298,Anxiety,1,Successful
+340,2024-06-20 20:48:10.489173,Suicidal Thoughts,35,Unsuccessful
+341,2024-01-11 05:08:42.181447,Anxiety,54,Successful
+342,2024-03-05 19:00:32.629520,Anxiety,55,Successful
+343,2024-04-04 03:53:10.648196,Suicidal Thoughts,26,Successful
+344,2024-05-15 09:08:12.807512,Suicidal Thoughts,34,Successful
+345,2024-04-23 00:45:10.203267,Anxiety,2,Successful
+346,2024-03-21 14:46:38.193193,Suicidal Thoughts,41,Successful
+347,2024-02-21 09:41:45.383092,Depression,23,Successful
+348,2024-10-27 10:18:48.717454,Other,4,Successful
+349,2024-08-21 03:33:48.409810,Anxiety,50,Successful
+350,2024-11-11 22:25:01.285414,Suicidal Thoughts,6,Successful
+351,2024-02-13 13:11:58.958578,Anxiety,24,Successful
+352,2024-08-06 09:56:40.335879,Suicidal Thoughts,3,Unsuccessful
+353,2024-08-16 06:09:47.291603,Depression,34,Successful
+354,2024-06-10 08:42:12.478879,Other,14,Unsuccessful
+355,2024-08-07 00:21:31.962421,Anxiety,7,Unsuccessful
+356,2024-03-09 19:26:33.844137,Anxiety,15,Successful
+357,2024-07-17 01:20:24.625594,Anxiety,18,Successful
+358,2024-10-09 09:53:28.198502,Suicidal Thoughts,2,Unsuccessful
+359,2024-07-18 21:34:40.890492,Depression,44,Successful
+360,2024-09-13 04:57:10.362885,Suicidal Thoughts,19,Successful
+361,2024-07-30 19:33:45.325076,Anxiety,34,Successful
+362,2024-11-09 15:17:52.033268,Anxiety,7,Successful
+363,2024-06-21 09:39:45.567033,Other,40,Unsuccessful
+364,2024-08-14 15:43:07.849403,Suicidal Thoughts,15,Successful
+365,2024-05-18 03:32:58.329469,Other,13,Successful
+366,2024-11-14 04:52:08.966956,Suicidal Thoughts,53,Successful
+367,2024-06-27 14:38:05.274490,Anxiety,36,Unsuccessful
+368,2024-07-06 16:32:03.918917,Suicidal Thoughts,15,Successful
+369,2024-05-17 20:06:25.984098,Other,5,Successful
+370,2024-09-12 18:04:30.068347,Suicidal Thoughts,58,Unsuccessful
+371,2024-06-26 07:25:53.741610,Depression,45,Successful
+372,2024-07-29 00:22:34.368142,Anxiety,22,Successful
+373,2024-05-12 15:03:01.098316,Anxiety,16,Successful
+374,2024-11-09 06:53:16.201886,Depression,21,Successful
+375,2024-08-09 16:59:00.803630,Other,55,Successful
+376,2024-09-25 02:31:32.735310,Anxiety,44,Unsuccessful
+377,2024-04-03 18:16:13.038354,Depression,38,Successful
+378,2024-07-01 08:04:40.096468,Other,33,Successful
+379,2024-12-30 15:30:52.094809,Depression,24,Unsuccessful
+380,2024-08-14 08:59:20.928609,Depression,47,Successful
+381,2024-04-26 01:36:04.748777,Anxiety,20,Successful
+382,2024-12-22 00:47:16.397991,Depression,9,Unsuccessful
+383,2024-02-20 19:33:53.974567,Depression,24,Successful
+384,2024-05-25 12:07:35.852990,Anxiety,50,Successful
+385,2024-07-03 19:52:17.822309,Other,50,Successful
+386,2024-07-14 18:39:55.208413,Depression,21,Successful
+387,2024-07-06 23:56:50.928887,Anxiety,23,Successful
+388,2024-12-31 06:25:33.696951,Anxiety,25,Unsuccessful
+389,2024-03-24 14:22:48.406368,Suicidal Thoughts,36,Successful
+390,2024-03-23 01:10:39.241697,Suicidal Thoughts,42,Successful
+391,2024-02-19 02:56:57.931409,Suicidal Thoughts,55,Successful
+392,2024-03-07 15:01:13.149247,Depression,53,Successful
+393,2024-06-21 20:51:58.053178,Suicidal Thoughts,13,Unsuccessful
+394,2024-11-24 15:00:35.052727,Suicidal Thoughts,47,Successful
+395,2024-09-11 03:36:52.231416,Suicidal Thoughts,56,Successful
+396,2024-04-16 20:27:11.718805,Depression,37,Successful
+397,2024-01-26 16:49:07.488044,Suicidal Thoughts,9,Successful
+398,2024-12-25 14:31:46.780143,Other,36,Unsuccessful
+399,2024-04-18 22:41:37.466891,Other,39,Successful
+400,2024-12-22 00:34:47.548304,Depression,54,Successful
+401,2024-07-11 22:05:05.451167,Depression,17,Successful
+402,2024-05-13 12:25:06.783257,Suicidal Thoughts,13,Successful
+403,2024-11-30 17:38:25.918824,Suicidal Thoughts,51,Successful
+404,2024-03-05 18:26:41.187685,Depression,32,Unsuccessful
+405,2024-09-23 18:16:28.909749,Anxiety,2,Successful
+406,2024-06-11 09:17:22.687601,Suicidal Thoughts,18,Successful
+407,2024-06-07 02:37:12.755617,Depression,52,Unsuccessful
+408,2024-02-28 21:20:35.187714,Depression,30,Unsuccessful
+409,2024-12-11 03:04:22.012719,Depression,41,Successful
+410,2024-03-28 17:56:32.269939,Other,20,Successful
+411,2024-10-12 07:26:06.596669,Suicidal Thoughts,38,Successful
+412,2024-01-11 00:34:28.634342,Other,37,Unsuccessful
+413,2024-05-22 23:34:33.547753,Depression,10,Successful
+414,2024-03-31 03:57:24.600897,Depression,56,Unsuccessful
+415,2024-02-12 17:21:45.716831,Depression,39,Successful
+416,2024-10-04 03:50:56.751585,Other,25,Successful
+417,2024-12-26 17:52:05.665938,Other,49,Successful
+418,2024-05-02 01:34:55.733809,Other,34,Unsuccessful
+419,2024-09-02 10:33:24.520574,Depression,17,Unsuccessful
+420,2024-01-14 11:40:09.334472,Other,14,Successful
+421,2024-10-27 09:35:58.784101,Depression,14,Successful
+422,2024-07-02 02:13:56.420054,Other,53,Successful
+423,2024-08-28 07:07:43.946634,Depression,23,Successful
+424,2024-04-27 01:55:37.019995,Other,7,Unsuccessful
+425,2024-03-20 04:13:12.615963,Other,21,Unsuccessful
+426,2024-01-14 09:45:02.939716,Suicidal Thoughts,6,Successful
+427,2024-01-10 08:29:23.991724,Depression,4,Unsuccessful
+428,2024-03-10 11:08:39.475428,Other,48,Successful
+429,2024-12-14 01:53:58.416065,Other,27,Successful
+430,2024-02-03 00:41:36.040823,Anxiety,43,Successful
+431,2024-02-01 04:30:39.172678,Suicidal Thoughts,30,Unsuccessful
+432,2024-08-19 10:06:01.884333,Other,33,Successful
+433,2024-11-18 12:05:22.081735,Anxiety,30,Successful
+434,2024-03-30 11:16:14.513129,Anxiety,50,Unsuccessful
+435,2024-12-24 01:34:40.312505,Other,35,Successful
+436,2024-12-23 06:23:37.117384,Suicidal Thoughts,53,Unsuccessful
+437,2024-06-26 10:44:28.863197,Other,11,Successful
+438,2024-01-20 21:17:14.022184,Depression,7,Unsuccessful
+439,2024-01-14 01:34:14.947172,Suicidal Thoughts,7,Unsuccessful
+440,2024-08-18 03:45:06.946383,Depression,30,Successful
+441,2024-12-14 21:55:29.765678,Depression,40,Successful
+442,2024-08-04 17:56:07.657619,Depression,32,Unsuccessful
+443,2024-12-24 23:58:19.062070,Other,28,Successful
+444,2024-07-29 21:26:16.301705,Other,16,Successful
+445,2024-02-24 17:50:59.774069,Depression,53,Successful
+446,2024-06-12 01:11:04.583972,Other,13,Successful
+447,2024-04-28 21:02:34.101507,Other,48,Unsuccessful
+448,2024-04-13 03:01:14.349835,Suicidal Thoughts,31,Successful
+449,2024-06-10 03:51:14.992062,Depression,26,Successful
+450,2024-07-07 10:29:49.196504,Anxiety,8,Successful
+451,2024-08-31 01:20:33.486702,Suicidal Thoughts,55,Successful
+452,2024-11-13 11:27:11.197740,Depression,22,Successful
+453,2024-06-16 06:05:32.421482,Anxiety,29,Successful
+454,2024-12-31 09:33:28.128405,Suicidal Thoughts,22,Unsuccessful
+455,2024-09-11 23:29:06.075954,Anxiety,17,Successful
+456,2024-05-01 07:58:25.609922,Other,1,Successful
+457,2024-07-03 22:09:08.686855,Anxiety,37,Successful
+458,2024-01-11 11:04:38.844543,Anxiety,7,Successful
+459,2024-11-27 11:40:07.893677,Anxiety,31,Successful
+460,2024-09-05 04:53:26.552913,Anxiety,28,Successful
+461,2024-06-28 19:12:08.424336,Suicidal Thoughts,17,Unsuccessful
+462,2024-01-10 21:44:12.429127,Suicidal Thoughts,29,Successful
+463,2024-08-13 08:38:25.041673,Depression,10,Successful
+464,2024-03-19 11:10:23.291859,Suicidal Thoughts,8,Successful
+465,2024-08-29 07:37:13.531253,Other,50,Successful
+466,2024-04-27 23:14:14.692570,Suicidal Thoughts,48,Successful
+467,2024-03-04 11:37:24.988433,Depression,27,Successful
+468,2024-11-27 13:21:24.353100,Depression,1,Successful
+469,2024-09-06 14:05:41.885792,Suicidal Thoughts,58,Unsuccessful
+470,2024-06-10 18:43:25.739250,Suicidal Thoughts,35,Successful
+471,2024-12-16 11:04:11.617164,Suicidal Thoughts,47,Unsuccessful
+472,2024-06-06 17:18:36.331742,Depression,41,Successful
+473,2024-11-10 17:06:10.140939,Depression,14,Unsuccessful
+474,2024-12-21 06:11:30.818636,Depression,28,Successful
+475,2024-04-25 05:43:50.271942,Depression,52,Successful
+476,2024-12-16 01:38:39.747670,Anxiety,47,Successful
+477,2024-11-30 22:04:17.467769,Depression,54,Successful
+478,2024-08-10 08:17:42.773452,Anxiety,40,Successful
+479,2024-12-28 15:09:04.435483,Suicidal Thoughts,8,Unsuccessful
+480,2024-04-15 02:03:58.289394,Suicidal Thoughts,41,Successful
+481,2024-07-18 06:26:00.293009,Other,16,Successful
+482,2024-01-14 11:57:13.435237,Other,19,Successful
+483,2024-07-13 14:42:29.731153,Depression,56,Successful
+484,2024-06-20 23:10:52.118654,Depression,51,Successful
+485,2024-06-27 20:25:21.963205,Other,7,Successful
+486,2024-03-31 21:10:49.731282,Anxiety,32,Successful
+487,2024-10-27 13:00:21.047409,Suicidal Thoughts,35,Unsuccessful
+488,2024-11-18 08:27:11.592461,Other,52,Unsuccessful
+489,2024-02-09 03:26:20.333116,Suicidal Thoughts,43,Successful
+490,2024-07-28 18:48:28.910463,Other,14,Unsuccessful
+491,2024-04-24 12:28:21.937387,Anxiety,53,Successful
+492,2024-06-14 11:29:36.479401,Suicidal Thoughts,8,Unsuccessful
+493,2024-02-15 00:33:47.100535,Suicidal Thoughts,39,Successful
+494,2024-04-19 09:17:15.426665,Depression,18,Successful
+495,2024-02-17 01:49:04.234727,Depression,31,Unsuccessful
+496,2024-05-04 17:09:35.531542,Anxiety,10,Unsuccessful
+497,2024-12-30 07:17:57.789414,Suicidal Thoughts,41,Successful
+498,2024-04-10 07:31:46.015613,Anxiety,36,Successful
+499,2024-03-11 18:44:16.487404,Depression,39,Unsuccessful
+500,2024-09-06 04:23:27.113182,Depression,8,Successful
